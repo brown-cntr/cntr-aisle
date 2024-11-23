@@ -30,8 +30,8 @@ def convert_to_markdown(df):
     return text
 
 if __name__ == '__main__':
-    INPUT_FILE = 'definitions.csv'
-    OUTPUT_FILE = 'README.md'
+    INPUT_FILE = 'source/definitions.csv'
+    OUTPUT_FILE = 'docs/index.md'
     
     df = pd.read_csv(INPUT_FILE)    
     assert all(df['Deprecated'].isin([None, np.nan, "No"]))
@@ -47,10 +47,6 @@ This document provides the definitions of the terms used in questions of the Sco
 This is part of the AI Legislative Mapping project at the CNTR at Brown University. 
 
 **Updated**: {current_date}
-
-[[TOC]]
-
-[TOC]
 
 '''
     text += convert_to_markdown(df)

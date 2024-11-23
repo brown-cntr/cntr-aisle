@@ -1,2 +1,2 @@
 convert:
-	python convert.py 
+	python source/convert.py 
