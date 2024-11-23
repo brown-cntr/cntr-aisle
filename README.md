@@ -1,8 +1,12 @@
 # AI / ADS Scorecard Term Definitions
 
-This document provides the definitions of the terms used in questions of the CNTR AI / ADS Scorecard.
+This document provides the definitions of the terms used in questions of the Scorecard for Artificial Intelligence (AI) and Automated Decision Systems (ADS) Policy.
+
+This is part of the AI Legislative Mapping project at the CNTR at Brown University. 
 
 **Updated**: November 23, 2024
+
+[[TOC]]
 
 [TOC]
 

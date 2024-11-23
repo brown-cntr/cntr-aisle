@@ -31,7 +31,7 @@ def convert_to_markdown(df):
 
 if __name__ == '__main__':
     INPUT_FILE = 'definitions.csv'
-    OUTPUT_FILE = 'definitions.md'
+    OUTPUT_FILE = 'README.md'
     
     df = pd.read_csv(INPUT_FILE)    
     assert all(df['Deprecated'].isin([None, np.nan, "No"]))
@@ -42,9 +42,13 @@ if __name__ == '__main__':
     text = f'''\
 # AI / ADS Scorecard Term Definitions
 
-This document provides the definitions of the terms used in questions of the CNTR AI / ADS Scorecard.
+This document provides the definitions of the terms used in questions of the Scorecard for Artificial Intelligence (AI) and Automated Decision Systems (ADS) Policy.
+
+This is part of the AI Legislative Mapping project at the CNTR at Brown University. 
 
 **Updated**: {current_date}
+
+[[TOC]]
 
 [TOC]
 
