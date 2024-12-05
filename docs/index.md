@@ -4,7 +4,9 @@ This document provides the definitions of the terms used in questions of the Sco
 
 This is part of the AI Legislative Mapping project at the CNTR at Brown University. 
 
-**Updated**: November 23, 2024
+Please contact us or raise an issue at <https://github.com/brown-cntr/scorecard-definitions/> if you have questions or suggestions.
+
+**Updated**: December 05, 2024
 
 ## Public-sector use
 
@@ -91,7 +93,7 @@ This is part of the AI Legislative Mapping project at the CNTR at Brown Universi
 
 **Potential relevant categories**: *Accountability & Transparency*
 
-**Reference**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4195066
+**Reference**: Paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4195066
 
 "For example, the development and use of AI systems can cause privacy harms. Some privacy harms, such as identity theft, can be readily observed and measured. Others, such as harms to dignity or autonomy, or for the more concretely minded, exposure to future risks of unauthorized disclosure or identity theft, cannot."
 
@@ -116,13 +118,6 @@ This is part of the AI Legislative Mapping project at the CNTR at Brown Universi
 **Potential relevant categories**: *Accountability & Transparency*
 
 
-## Risk Regulation
-
-**Definition**: Rules or procedures intended to control or mitigate risks.
-
-**Potential relevant categories**: *Accountability & Transparency*
-
-
 ## Decommissioning
 
 **Definition**: The process of shutting down or discontinuing a system
@@ -132,17 +127,27 @@ This is part of the AI Legislative Mapping project at the CNTR at Brown Universi
 
 ## Transparency Report
 
-**Definition**: A report designed to disclose key information about a system’s operation and risks.
+**Definition**: Regular public reports on platform usage and governance pratices like takedown requests and policy enforcement.
 
 **Potential relevant categories**: *Accountability & Transparency*
 
+**Reference**: Page 1, https://doi.org/10.48550/arXiv.2402.16268
+
+## Risk Regulation
+
+**Definition**: Rules or procedures intended to control or mitigate risks, broadly covering three categories: precautionary tactics, risk analysis and mitigation, and post-market measures
+
+**Potential relevant categories**: *Accountability & Transparency*
+
+**Reference**: Page 1370, Kaminski, Margot E., Regulating the Risks of AI (August 19, 2022). Boston University Law Review, Vol. 103:1347, 2023, U of Colorado Law Legal Studies Research Paper No. 22-21, Available at SSRN: https://ssrn.com/abstract=4195066 or http://dx.doi.org/10.2139/ssrn.4195066221 
 
 ## Precautionary measures
 
-**Definition**: Actions taken in advance to prevent risks.
+**Definition**: Safety-focused measures like bans, licensing, and sandboxing, ensuring technologies are proven safe before use
 
 **Potential relevant categories**: *Accountability & Transparency*
 
+**Reference**: Page 1371, Kaminski, Margot E., Regulating the Risks of AI (August 19, 2022). Boston University Law Review, Vol. 103:1347, 2023, U of Colorado Law Legal Studies Research Paper No. 22-21, Available at SSRN: https://ssrn.com/abstract=4195066 or http://dx.doi.org/10.2139/ssrn.4195066221 
 
 ## Licensing regime
 
@@ -150,20 +155,27 @@ This is part of the AI Legislative Mapping project at the CNTR at Brown Universi
 
 **Potential relevant categories**: *Accountability & Transparency*
 
+**Reference**: Page 1388, Kaminski, Margot E., Regulating the Risks of AI (August 19, 2022). Boston University Law Review, Vol. 103:1347, 2023, U of Colorado Law Legal Studies Research Paper No. 22-21, Available at SSRN: https://ssrn.com/abstract=4195066 or http://dx.doi.org/10.2139/ssrn.4195066221 
+
+221 See generally, Tutt, supra note 95. (Andrew Tutt);
+
+Malgieri & Pasquale, supra note 96. Gianclaudio Malgieri & Frank Pasquale, From Transparency to Justification: Toward Ex Ante Accountability for AI 10-14 (Brooklyn L. Sch., Legal Studies Paper No. 712, Brussels Priv. Hub, Working Paper No. 33, 2022), https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4099657
 
 ## Conditional Licensing
 
-**Definition**: Licensing granted with regulatory-imposed conditions or restrictions that must be met to maintain approval.
+**Definition**: Licensing granted with specific restrictions or with promised guard rails, requiring compliance to maintain approval.
 
 **Potential relevant categories**: *Accountability & Transparency*
 
+**Reference**: Page 1388, Kaminski, Margot E., Regulating the Risks of AI (August 19, 2022). Boston University Law Review, Vol. 103:1347, 2023, U of Colorado Law Legal Studies Research Paper No. 22-21, Available at SSRN: https://ssrn.com/abstract=4195066 or http://dx.doi.org/10.2139/ssrn.4195066221 
 
 ## Post-market measures
 
-**Definition**: Actions taken after a system is in the market to ensure ongoing safety or performance.
+**Definition**: Risk regulation tools like monitoring, compliance checks, and failsafes applied after a product is in use
 
 **Potential relevant categories**: *Accountability & Transparency*
 
+**Reference**: Page 1372, Kaminski, Margot E., Regulating the Risks of AI (August 19, 2022). Boston University Law Review, Vol. 103:1347, 2023, U of Colorado Law Legal Studies Research Paper No. 22-21, Available at SSRN: https://ssrn.com/abstract=4195066 or http://dx.doi.org/10.2139/ssrn.4195066221 
 
 ## Information-forcing
 
@@ -178,6 +190,7 @@ This is part of the AI Legislative Mapping project at the CNTR at Brown Universi
 
 **Potential relevant categories**: *Accountability & Transparency*
 
+**Reference**: Marchant & Stevens, supra note 19, at 236. (“While there has been some confusion in the literature about whether risk analysis is part of resilience or resilience is part of risk analysis, the two approaches are distinct but complementary.”)
 
 ## A Right to Privacy
 
@@ -195,10 +208,12 @@ This is part of the AI Legislative Mapping project at the CNTR at Brown Universi
 
 ## Private Right of Action
 
-**Definition**: Individuals can sue for damages or enforce compliance if their rights are violated by an organization’s use of AI or ADS
+**Definition**: Individuals can sue an organization for damages or enforce compliance if their rights are violated
 
 **Potential relevant categories**: *Data Protection*
 
+**Reference**: Page 16, "Enforcing a New Privacy
+Law", https://www.newamerica.org/oti/reports/enforcing-new-privacy-law/
 
 ## Data Retention
 
@@ -210,11 +225,11 @@ This is part of the AI Legislative Mapping project at the CNTR at Brown Universi
 ## Algorithmic Discrimination
 
 **Definition**: When automated systems contribute to unjustified different treatment or impacts disfavoring people based on their race, color, ethnicity, sex (including pregnancy, childbirth, and related medical conditions, gender identity, intersex status, and sexual orientation), religion, age, national origin, disability, veteran status, genetic information, or any other classification protected by law.  
-
-Potential synonyms: algorithmic discrimination, intentional differentiation, unjustified differential treatment, unlawful discriminatory practice, the risk to rights and freedoms, and systematic bias, automation bias
+Potential synonyms: algorithmic discrimination, intentional differentiation, unjustified differential treatment, unlawful discriminatory practice, the risk to rights and freedoms, and systematic bias, (automation bias)
 
 **Potential relevant categories**: *Bias & Discrimination*
 
+**Reference**: https://www.whitehouse.gov/ostp/ai-bill-of-rights/definitions/
 
 ## Unfair Treatment
 
@@ -257,6 +272,7 @@ Potential synonyms: algorithmic discrimination, intentional differentiation, unj
 
 **Potential relevant categories**: *Labor Force*
 
+**Reference**: https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/637967/EPRS_BRI(2019)637967_EN.pdf
 
 ## Partners
 

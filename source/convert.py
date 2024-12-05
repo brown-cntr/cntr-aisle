@@ -46,6 +46,8 @@ This document provides the definitions of the terms used in questions of the Sco
 
 This is part of the AI Legislative Mapping project at the CNTR at Brown University. 
 
+Please contact us or raise an issue at <https://github.com/brown-cntr/scorecard-definitions/> if you have questions or suggestions.
+
 **Updated**: {current_date}
 
 '''
