@@ -37,7 +37,7 @@ def convert_to_markdown(df):
     # fix typo
     df.loc[
         df['question_code'] == "G1b",
-        'question'
+        'source_question_col'
     ] = df.loc[df['question_code'] == "G1b", 'question'].str.replace(
         'please please',
         'please'

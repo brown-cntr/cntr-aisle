@@ -31,11 +31,7 @@ Feel free to use "Notes" to elaborate on your selection(s)
 - *EU AI Act: "General-purpose AI model" means an AI model, including where such an AI model is trained with a large amount of data using self-supervision at scale, that displays significant generality and is capable of competently performing a wide range of distinct tasks regardless of the way the model is placed on the market and that can be integrated into a variety of downstream systems or applications, except AI models that are used for research, development or prototyping activities before they are placed on the market;*
 - *N/A*
 
-[**G1b**] If "Yes" to G1, please please select at least one of the following categories of ADS definitions that is closest to the definition of ADS in the bill. 
-
-Select "N/A" if there is no ADS definition or the ADS definition does not fit the following categories.
-
-Feel free to use "Notes" to elaborate on your selection(s)
+If "Yes" to G1, please select at least one of the following categories of ADS definitions that is closest to the definition of ADS in the bill.
 
 - *General v1: "Automated decision system" means a computational process, including one derived from machine learning, statistics, or other data processing or artificial intelligence techniques, that makes a decision, or facilitates human decision making  [usually followed by potential impacted entities]... [Example sources: US S-2134 (117th); SC S-404 (2023-2024)]*
 - *General v2: "Automated decision system" means any computer program, method, statistical model, or process that aims to aid or replace human decision-making using algorithms or artificial intelligence. [Example source: RI SB-146 (2023)]*
