@@ -1,8 +1,7 @@
-# AI / ADS Scorecard Term Definitions
+# CNTR AISLE Framework
 
-This repository provides the definitions of the terms used in questions of the Scorecard for Artificial Intelligence (AI) and Automated Decision Systems (ADS) Policy.
+This repository contains information about the Center for Technological Responsibility's AI Legislation Evaluation Framework Version 1 (**CNTR AISLE Framework V1**), including the questions, glossary and the bills that were assessed.
 
-This is part of the AI Legislative Mapping project at the CNTR at Brown University.
+This is part of the **AI Legislative Mapping** project at the CNTR at Brown University.
 
-Please visit: <https://brown-cntr.github.io/scorecard-definitions>
-
+Please visit: <https://brown-cntr.github.io/cntr-aisle>

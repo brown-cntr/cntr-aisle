@@ -31,22 +31,24 @@ def convert_to_markdown(df):
 
 if __name__ == '__main__':
     INPUT_FILE = 'source/definitions.csv'
-    OUTPUT_FILE = 'docs/index.md'
+    OUTPUT_FILE = 'docs/glossary.md'
+    VERSION = 'V1'
     
     df = pd.read_csv(INPUT_FILE)    
     assert all(df['Deprecated'].isin([None, np.nan, "No"]))
 
-
     current_date = datetime.now().strftime('%B %d, %Y')
     
     text = f'''\
-# AI / ADS Scorecard Term Definitions
+# CNTR AISLE Framework {VERSION}: **Glossary**
 
-This document provides the definitions of the terms used in questions of the Scorecard for Artificial Intelligence (AI) and Automated Decision Systems (ADS) Policy.
+This glossary provides the definitions of the terms used in questions of the Center for Technological Responsibility's AI Legislation Evaluation Framework {VERSION} (**CNTR AISLE Framework**).
 
-This is part of the AI Legislative Mapping project at the CNTR at Brown University. 
+This is part of the **AI Legislative Mapping** project at the CNTR at Brown University.
 
-Please contact us or raise an issue at <https://github.com/brown-cntr/scorecard-definitions/> if you have questions or suggestions.
+Please contact us or raise an issue at <https://github.com/brown-cntr/cntr-aisle/> if you have questions or suggestions.
+
+**Version**: *CNTR-AISLE-{VERSION}*
 
 **Updated**: {current_date}
 
